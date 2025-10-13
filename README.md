@@ -6,19 +6,9 @@
 ![Code Wizard](https://img.shields.io/badge/Coding-Wizard-%23008BFF?logo=visual-studio-code&logoColor=%23FFFFFF)
 ![Saxophonist](https://img.shields.io/badge/Music-Amateur_Saxophonist-%23FFAA00?logo=bandcamp&logoColor=%23000000)
 ![Bug Hunter](https://img.shields.io/badge/Debugging-Bug_Catcher-%23ADFF2F?logo=bugatti&logoColor=%23000000)
+![Active projects](https://img.shields.io/badge/Active_Projects-None-red)
 
-
-
-
-
-### What Am I Working On?
-- Documentation of niche game exploits
-- Teaching programming to MR. PEREZ
-- Music Theory
-- Web circumnavigation repository
-- Grinding Phasmophobia during the Halloween update
-
-### What Music Do I Listen To?
+**What Music Do I Listen To?**
 - Jazz / Bossa / Samba
 - Classical / Orchestral / Old timey stuff
 - Video game OSTs / Retro OSTs
