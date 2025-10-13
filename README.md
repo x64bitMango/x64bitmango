@@ -1,4 +1,4 @@
-<img src="https://t3.ftcdn.net/jpg/05/91/97/64/360_F_591976463_KMZyV6obpsrN2bJJJkYW0bzoH2XxLTlA.jpg" alt="Banner" width="800" height="150">
+<img src="https://camo.githubusercontent.com/5e43a6032b3b4d2345b218649bf31c6980e154d5c1a8395e19e46047489abadd/68747470733a2f2f69312e736e6463646e2e636f6d2f76697375616c732d3030303933383131333334382d4655547349532d7431323430783236302e6a7067" alt="Banner" width="800" height="150">
 
 # x64BitMango: The Mango
 
