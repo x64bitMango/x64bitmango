@@ -2,11 +2,11 @@
 
 # x64BitMango: The Mango
 
-![Still Alive](https://img.shields.io/badge/Status-Still_Alive-%2300FF00?logo=heartbeat&logoColor=%23000000)
+![Still Alive](https://img.shields.io/badge/Status-Still_Alive-%2300FF00)
 ![Code Wizard](https://img.shields.io/badge/Coding-Wizard-%23008BFF?logo=visual-studio-code&logoColor=%23FFFFFF)
-![Saxophonist](https://img.shields.io/badge/Music-Amateur_Saxophonist-%23FFAA00?logo=bandcamp&logoColor=%23000000)
-![Bug Hunter](https://img.shields.io/badge/Debugging-Bug_Catcher-%23ADFF2F?logo=bugatti&logoColor=%23000000)
-![Active projects](https://img.shields.io/badge/Active_Projects-None-red)
+![Saxophonist](https://img.shields.io/badge/🎷-Amateur-%23FFAA000)
+![Bug Hunter](https://img.shields.io/badge/🐛-Catcher-%23ADFF2F)
+![Active projects](https://img.shields.io/badge/Active_Projects-1..-black)
 
 **What Music Do I Listen To?**
 - Jazz / Bossa / Samba
