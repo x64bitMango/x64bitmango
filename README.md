@@ -1,4 +1,4 @@
-<img src="https://i1.sndcdn.com/visuals-000938113348-FUTsIS-t1240x260.jpg" alt="Banner" width="600" height="190">
+<img src="https://t3.ftcdn.net/jpg/05/91/97/64/360_F_591976463_KMZyV6obpsrN2bJJJkYW0bzoH2XxLTlA.jpg" alt="Banner" width="900" height="190">
 
 # x64BitMango: The Mango
 
