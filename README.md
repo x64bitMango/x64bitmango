@@ -1,17 +1,21 @@
-![Banner](https://i.redd.it/bocchi-the-rock-profile-banners-v0-jysd1x9pz58a1.jpg?width=1534&format=pjpg&auto=webp&s=c6a4f4f6eab267e35f2e4b054e31088b64970a53)
+<img src="https://i1.sndcdn.com/visuals-000938113348-FUTsIS-t1240x260.jpg" alt="Banner" width="1000" height="200">
 
 # x64BitMango: The Mango
 
-![Website](https://img.shields.io/badge/Status-Active-brightgreen)
-![Coding](https://img.shields.io/badge/Coding-Passionate-blue)
-![Music](https://img.shields.io/badge/Music-Lover-orange)
-![Gaming](https://img.shields.io/badge/Gaming-Addict-red)
+![Still Alive](https://img.shields.io/badge/Status-Still_Alive-%2300FF00?logo=heartbeat&logoColor=%23000000)
+![Code Wizard](https://img.shields.io/badge/Coding-Wizard-%23008BFF?logo=visual-studio-code&logoColor=%23FFFFFF)
+![Saxophonist](https://img.shields.io/badge/Music-Amateur_Saxophonist-%23FFAA00?logo=bandcamp&logoColor=%23000000)
+![Bug Hunter](https://img.shields.io/badge/Debugging-Bug_Catcher-%23ADFF2F?logo=bugatti&logoColor=%23000000)
+
+
+
+
 
 ### What Am I Working On?
 - Documentation of niche game exploits
 - Teaching programming to MR. PEREZ
 - Music Theory
-- A RetroAchievements Achievement Set
+- Web circumnavigation repository
 - Grinding Phasmophobia during the Halloween update
 
 ### What Music Do I Listen To?
