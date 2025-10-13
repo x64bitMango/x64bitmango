@@ -1,16 +1,14 @@
-## Hi there 👋
+## x64BitMango: The Mango
 
-<!--
-**x64bitMango/x64bitmango** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### What am I working on?
+- Documentation of niche game exploits
+- Teaching programming to MR. PEREZ
+- Music Theory
+- A RetroAchievements Achievement Set
+- Grinding phasmophobia during the halloween update
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What music do I listen to?
+- Jazz / Bossa / Samba
+- Classical / Orchestral / Old timey stuff
+- Video game OSTs / Retro OSTs
+- Classic rock / Folk rock
