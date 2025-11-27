@@ -13,7 +13,8 @@
     "Jazz / Bossa / Samba",
     "Classical / Orchestral / Old timey stuff",
     "Video game OSTs / Retro OSTs",
-    "Classic rock / Folk rock"
+    "Classic rock / Folk rock",
+    "Musical theatre"
   ]
 }
 
