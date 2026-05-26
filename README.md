@@ -1,5 +1,3 @@
-<img src="https://i.redd.it/j3ke10aiswb81.jpg" alt="Banner" width="825" height="200">
-
 # x64BitMango: The Mango
 
 ![Still Alive](https://img.shields.io/badge/Status-Still_Alive-%2300FF00)
