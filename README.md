@@ -10,7 +10,7 @@
 ```Json
 {
   "Technical environments": [
-    "Front-end: terrible at CSS, but can built large scale client-side Javascript integrations",
+    "Front-end: terrible at CSS, but can build and work with large scale client-side Javascript integrations",
     "Back-end: experience with Flask servers, node.js, luau, and dynamic processes with python",
     "Full-stack: mediocre. Specialized in back-end programming with minor experience in working front-end",
   ]
