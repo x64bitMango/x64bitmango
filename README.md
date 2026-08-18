@@ -9,14 +9,6 @@
     "Back-end: experience with Flask servers, node.js, luau, and dynamic processes with python",
     "Full-stack: mediocre. Specialized in back-end programming with minor experience in working front-end",
   ]
-  "Fine art environments": [
-    "Jazz: jazz ensemble member; tenor saxophone",
-    "Marching: flute & tenor saxophone for marching band",
-    "Ochestra: long standing oboist at the symphony level",
-    "Chorale: long standing choral participant; sang at particular concert halls and university events",
-    "Theatre: long standing theatre kid; strong technical and construction background"
-  ],
-
 }
 
 ```
